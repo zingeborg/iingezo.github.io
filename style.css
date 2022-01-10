@@ -1,0 +1,20 @@
+.wrapper {width:90%;
+            margin:auto;}
+
+.banner {width:100%;
+        z-index:0;}
+
+body {background-image: url("images/background.png");
+        color:white;}
+
+a {color:rgb(99,154,196);
+    text-decoration:none;
+    border-bottom:2px solid rgb(99,154,196);}
+
+a:hover {color:rgb(15, 125, 228);
+            border-bottom:2px solid rgb(15, 125, 228)}
+
+.inspo {width:300px;
+        background:white;
+        padding:10px;
+        border:2px solid rgb(99,154,196)}
